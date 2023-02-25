@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\bin\Debug\net6.0\Семинар031.exe
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\bin\Debug\net6.0\Семинар031.deps.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\bin\Debug\net6.0\Семинар031.runtimeconfig.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\bin\Debug\net6.0\Семинар031.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\bin\Debug\net6.0\Семинар031.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\refint\Семинар031.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\Семинар031.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\Семинар031\obj\Debug\net6.0\ref\Семинар031.dll
