@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\bin\Debug\net6.0\HW_34_1.exe
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\bin\Debug\net6.0\HW_34_1.deps.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\bin\Debug\net6.0\HW_34_1.runtimeconfig.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\bin\Debug\net6.0\HW_34_1.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\bin\Debug\net6.0\HW_34_1.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\refint\HW_34_1.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\HW_34_1.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар005\HW_34_1\obj\Debug\net6.0\ref\HW_34_1.dll
